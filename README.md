@@ -63,7 +63,8 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
 
 ---
 - Operational System <br/>
-  
+- 
+  ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
   ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
 
 ---
