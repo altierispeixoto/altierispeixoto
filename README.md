@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/altierispeixoto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Altieris%20Peixoto%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 Currently I'm a Data Team Lead at [Dextra](https://www.dextra.com.br/)
 
