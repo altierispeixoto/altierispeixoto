@@ -22,7 +22,7 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/altierispeixoto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altierispeixoto&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altierispeixoto&theme=buefy&layout=compact" />
 </a>
@@ -32,11 +32,6 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/altierispeixoto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/altierispeixoto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Altieris%20Peixoto%20Singh-blue?style=flat-square&logo=linkedin"></a>
 </p>
-
-**Areas of activity:** Big Data, Data Science, Machine Learning, Predictive Analytics, Databricks, Amazon AWS, Azure Cloud.
-
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=altierispeixoto&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/altierispeixoto/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altierispeixoto)](https://github.com/altierispeixoto/github-readme-stats)
+ 
