@@ -23,13 +23,11 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - Programming Languages <br/>
-
-<div>
+ 
   ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
   ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
   ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=)
-
-<div/>
+ 
 ---  
 - Version Control <br/>
 
