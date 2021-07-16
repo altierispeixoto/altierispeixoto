@@ -12,8 +12,8 @@ I'm in charge of directing teams and the customers with a global vision of the d
 promoting quality and fluid delivery, facilitating a strategic and technical communication channel in order to keep the development of the product sustainable and aligned with the objectives of all involved.
 
 <a href="https://github.com/altierispeixoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altierispeixoto&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altierispeixoto&layout=compact" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=altierispeixoto&show_icons=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altierispeixoto&layout=compact" />
 </a>
 
 <br/>
