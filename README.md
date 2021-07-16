@@ -10,23 +10,25 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- Programming Languages
+- Programming Languages <br/>
   ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
   ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
   ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=)
   
-  
-- Version Control
+---  
+- Version Control <br/>
   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
   ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
   ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
- 
-- Project Management
+
+---
+- Project Management <br/>
   ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
   ![Asana](https://img.shields.io/static/v1?style=for-the-badge&message=Asana&color=273347&logo=Asana&logoColor=FFFFFF&label=)
   
-- Data Science
+---
+- Data Science <br/>
   ![Anaconda](https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=)
   ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
   ![Data Version Control](https://img.shields.io/static/v1?style=for-the-badge&message=Data+Version+Control&color=945DD6&logo=Data+Version+Control&logoColor=FFFFFF&label=)
@@ -35,25 +37,30 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
   ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
   ![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
   ![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
-  
-- Cloud
+
+---
+- Cloud <br/>
   ![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)
   ![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
   ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
   ![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
   
-- CI/CD
+---
+- CI/CD <br/>
   ![CircleCI](https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=)
   ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 
-- Operational System
+---
+- Operational System <br/>
   ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
-  
-- Databases
+
+---
+- Databases <br/>
   ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
   ![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=008CC1&logo=Neo4j&logoColor=FFFFFF&label=)
   
-- IDE
+---
+- IDE <br/>
   ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
   ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 <br/>
