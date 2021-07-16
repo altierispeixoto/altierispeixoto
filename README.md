@@ -99,3 +99,4 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
 <a href="https://www.linkedin.com/in/altierispeixoto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Altieris%20Peixoto%20-blue?style=flat-square&logo=linkedin"></a>
 </p>
  
+ <!--https://github.com/progfay/shields-with-icon/blob/master/Snippets.md -->
