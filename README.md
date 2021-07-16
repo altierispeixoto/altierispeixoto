@@ -6,6 +6,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<a href="https://github.com/altierispeixoto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altierispeixoto&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altierispeixoto&layout=compact" />
+</a>
+
+<br/>
+
 Currently I'm a Data Team Lead at [Dextra](https://www.dextra.com.br/)
 
 I'm in charge of directing teams and the customers with a global vision of the digital product, actively participating in the customer's technical strategy,
@@ -90,12 +97,7 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
 
 <br/>
 
-<a href="https://github.com/altierispeixoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altierispeixoto&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altierispeixoto&layout=compact" />
-</a>
 
-<br/>
 
  
  <!--https://github.com/progfay/shields-with-icon/blob/master/Snippets.md -->
