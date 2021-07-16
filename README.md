@@ -22,7 +22,7 @@ promoting quality and fluid delivery, facilitating a strategic and technical com
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- [Python](https://img.shields.io/static/v1?style=for-the-badge&message=Programming%20%Languages&color=3776AB&logoColor=FFFFFF&label=) <br/>
+[Python](https://img.shields.io/static/v1?style=for-the-badge&message=Programming%20Languages&color=3776AB&logoColor=FFFFFF&label=) 
  
   ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
   ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
