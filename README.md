@@ -6,7 +6,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
-Currently I'm a Senior Data Scientist at [Parrot Analytics](https://www.parrotanalytics.com/)
+Currently I'm a Lead Data Scientist at [Auror](https://www.auror.co/)
 
 
 
@@ -22,12 +22,10 @@ Currently I'm a Senior Data Scientist at [Parrot Analytics](https://www.parrotan
 <h3> 🛠 &nbsp;Tech Stack</h3>
  
   ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-  ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
   ![R](https://img.shields.io/static/v1?style=for-the-badge&message=R&color=276DC3&logo=R&logoColor=FFFFFF&label=)
  
 ---  
 
-  ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
   ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
   ![Bitbucket](https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=)
@@ -35,7 +33,7 @@ Currently I'm a Senior Data Scientist at [Parrot Analytics](https://www.parrotan
 ---
 
   ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
-  ![Asana](https://img.shields.io/static/v1?style=for-the-badge&message=Asana&color=273347&logo=Asana&logoColor=FFFFFF&label=)
+  ![Linear](https://img.shields.io/static/v1?style=for-the-badge&message=Linear&color=273347&logo=Linear&logoColor=FFFFFF&label=)
   
 ---
   ![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=) 
@@ -45,7 +43,8 @@ Currently I'm a Senior Data Scientist at [Parrot Analytics](https://www.parrotan
 ---
   ![Anaconda](https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=)
   ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
-  ![Data Version Control](https://img.shields.io/static/v1?style=for-the-badge&message=Data+Version+Control&color=945DD6&logo=Data+Version+Control&logoColor=FFFFFF&label=)
+  ![Data Version Control](https://img.shields.io/static/v1?style=for-the-badge&message=DVC&color=945DD6&logo=DVC&logoColor=FFFFFF&label=)
+
   ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
   ![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
   ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
