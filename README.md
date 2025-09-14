@@ -1,68 +1,52 @@
-# Hi there 👋, I'm Altiéris Peixoto
+# Altiéris Peixoto
 
-Lead Data Scientist at [Auror](https://www.auror.co/) with extensive experience in developing and deploying machine learning solutions at scale.
+Currently at [Auror](https://www.auror.co/), focusing on retail crime prevention through data science and machine learning. 
 
-## 🎯 Professional Summary
+I believe in writing clean code, building maintainable ML systems, and sharing knowledge with the community.
 
-- 🔭 Leading data science initiatives and ML solutions at Auror
-- 🌱 Specializing in scalable machine learning systems and MLOps
-- 👯 Passionate about solving complex business problems through data-driven approaches
-- 💬 Expert in predictive modeling, deep learning, and data engineering
+[Blog](https://medium.com/@altierispeixoto) | [LinkedIn](https://www.linkedin.com/in/altierispeixoto/)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altierispeixoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altierispeixoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 🏆 Key Achievements
+## What I'm Working On
 
-- Successfully led end-to-end ML projects from conception to production
-- Developed and deployed scalable data pipelines processing millions of records
-- Implemented robust MLOps practices improving model deployment efficiency
-- Mentored data science teams and established best practices
+At Auror, I lead the data science team that's revolutionizing retail crime prevention. We process millions of crime events daily, using machine learning to identify patterns and prevent retail crime before it happens.
 
-## 📫 Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/altierispeixoto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Altieris%20Peixoto%20-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
+Key areas:
+- Building scalable ML pipelines
+- Implementing real-time prediction systems
+- Improving model monitoring and maintenance
+- Mentoring team members in ML best practices
 
 ---
 
-## 🛠 Tech Stack
+## Tools I Use Daily
 
-### 💻 Programming & Data Science
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
-![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
-![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
-![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
-![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
+**Core Stack:**
+- Python (Pandas, NumPy, scikit-learn)
+- PyTorch & TensorFlow for deep learning
+- DBT & Snowflake for data processing
+- Dagster for workflow orchestration
+- Azure & GCP for cloud infrastructure
+- Docker & Kubernetes for containerization and orchestration
+- Git for version control
+- Jupyter Notebooks for experimentation
+- VS Code for development
+- FastAPI for building APIs
+- Uv for dependency management
+- ruff for code quality and linting
+  
 
-### 🔄 MLOps & Data Engineering
-![Apache Airflow](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Airflow&color=017CEE&logo=Apache+Airflow&logoColor=FFFFFF&label=)
-![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
-![Apache Spark](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Spark&color=E25A1C&logo=Apache+Spark&logoColor=FFFFFF&label=)
-![Data Version Control](https://img.shields.io/static/v1?style=for-the-badge&message=DVC&color=945DD6&logo=DVC&logoColor=FFFFFF&label=)
-![Databricks](https://img.shields.io/static/v1?style=for-the-badge&message=Databricks&color=FF3621&logo=Databricks&logoColor=FFFFFF&label=)
+**Data Storage:**
+- PostgreSQL
+- SQL Server
+- Snowflake
+- Neo4j for graph data
 
-### ☁️ Cloud Platforms
-![Google Cloud](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
-![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
-![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![Neo4j](https://img.shields.io/static/v1?style=for-the-badge&message=Neo4j&color=008CC1&logo=Neo4j&logoColor=FFFFFF&label=)
-![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=Redis&logoColor=FFFFFF&label=)
-
-### 🔧 Development Tools
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=)
-![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
-![CircleCI](https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=)
+I prefer tools that are reliable, well-documented, and have strong community support. While I've worked with many technologies, these are the ones I actively use and recommend.
 
 <!-- ## 📈 Featured Projects -->
 
@@ -82,13 +66,15 @@ Description of another notable project, focusing on:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🌱 Current Focus
+## Open Source & Community
 
-- Advanced MLOps practices and tools
-- Large Language Models and their applications
-- Scalable machine learning systems
-- Deep learning for computer vision
+I believe in giving back to the community that has taught me so much. You can find me:
+- Writing about ML systems and data engineering on my [blog](https://medium.com/@altierispeixoto)
+- Contributing to open-source ML projects
+- Sharing code snippets and utilities that I find useful
 
----
+## GitHub Stats
 
-<p align="center">💡 <i>The best way to predict the future is to create it.</i></p>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=altierispeixoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+Feel free to reach out if you want to discuss data science, machine learning, or technology in general!
