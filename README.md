@@ -1,10 +1,8 @@
 # Altiéris Peixoto
 
-Currently at [Auror](https://www.auror.co/), focusing on retail crime prevention through data science and machine learning. 
+Currently Lead Data Scientist & AI at [Auror](https://www.auror.co/), focusing on retail crime prevention through data science and machine learning. 
 
-I believe in writing clean code, building maintainable ML systems, and sharing knowledge with the community.
-
-[Blog](https://medium.com/@altierispeixoto) | [LinkedIn](https://www.linkedin.com/in/altierispeixoto/)
+[LinkedIn](https://www.linkedin.com/in/altierispeixoto/)
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=altierispeixoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -46,8 +44,6 @@ Key areas:
 - Snowflake
 - Neo4j for graph data
 
-I prefer tools that are reliable, well-documented, and have strong community support. While I've worked with many technologies, these are the ones I actively use and recommend.
-
 <!-- ## 📈 Featured Projects -->
 
 <!-- ### 🔍 [Project Name 1]
@@ -66,12 +62,14 @@ Description of another notable project, focusing on:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<!-- 
 ## Open Source & Community
 
 I believe in giving back to the community that has taught me so much. You can find me:
 - Writing about ML systems and data engineering on my [blog](https://medium.com/@altierispeixoto)
 - Contributing to open-source ML projects
 - Sharing code snippets and utilities that I find useful
+--> 
 
 ## GitHub Stats
 
